@@ -1,8 +1,6 @@
 // ✅ FOLLOW HIS CALL — PayPal Subscriptions (monatlich, fixe Beträge) mit CORS
 
 const ALLOWED_ORIGINS = [
-  'https://www.followhiscall.com',
-  'https://followhiscall.com',
   'https://fhc---2025.webflow.io/' // ggf. anpassen
 ];
 
