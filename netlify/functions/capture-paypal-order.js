@@ -4,8 +4,6 @@
 // 1️⃣ Erlaubte Domains
 // -----------------------------
 const ALLOWED_ORIGINS = [
-  'https://www.followhiscall.com',
-  'https://followhiscall.com',
   'https://fhc---2025.webflow.io/' // ← dein Webflow Preview Domain
 ];
 
