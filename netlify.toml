@@ -1,0 +1,7 @@
+[build]
+  command = ""          # kein Build
+  publish = "public"    # wird nicht genutzt, aber Netlify will einen Pfad
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
