@@ -3,7 +3,7 @@
 const ALLOWED_ORIGINS = [
   'https://www.followhiscall.com',
   'https://followhiscall.com',
-  'https://fhc.webflow.io' // ggf. anpassen
+  'https://fhc---2025.webflow.io/' // ggf. anpassen
 ];
 
 const json = (status, data, origin = '') => ({
